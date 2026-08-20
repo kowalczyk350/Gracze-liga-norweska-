@@ -1,6 +1,6 @@
 # Napastnicy - Norwegia
 
-| Zawodnik | Klub | Wiek | Gole bez PK | Mecze | Minuty | Wartość | Kontrakt | Status |
+| Zawodnik | Klub | Wiek | Ocena FotMob | Gole bez PK | Mecze | Minuty | Wartość | Kontrakt | Status |
 |-----------|-----------|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
 | Amin Chiakha | Rosenborg | 20 | 9 | 18 | 1433 | 3,5 mln € | 31.12.2026 | wypożyczenie |
 | Endre Osenbroch | Aalesund | 21 | 5 | 16 | 930 | 0,5 mln € | 31.12.2028 | własność |
